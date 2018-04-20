@@ -1,0 +1,13 @@
+C:\Dev\CSharp\HTTPServer\bin\Debug\HTTPServer.exe.config
+C:\Dev\CSharp\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Dev\CSharp\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Dev\CSharp\HTTPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+C:\Dev\CSharp\HTTPServer\obj\Debug\HTTPServer.exe
+C:\Dev\CSharp\HTTPServer\obj\Debug\HTTPServer.pdb
+C:\Dev\CSharp\TCPServer\bin\Debug\HTTPServer.exe.config
+C:\Dev\CSharp\TCPServer\bin\Debug\HTTPServer.exe
+C:\Dev\CSharp\TCPServer\bin\Debug\HTTPServer.pdb
+C:\Dev\CSharp\TCPServer\obj\Debug\TCPServer.csprojResolveAssemblyReference.cache
+C:\Dev\CSharp\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+C:\Dev\CSharp\TCPServer\obj\Debug\HTTPServer.exe
+C:\Dev\CSharp\TCPServer\obj\Debug\HTTPServer.pdb
